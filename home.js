@@ -23,8 +23,9 @@ while(hungry==true){
 }
 
 var scale = prompt("What do you rate us, 1-5?");
-for(let i =0; i<scale; i++) {
-  document.write("<img src='Soul.jpg'");
+for(let i = 0; i < 5; i++) { 
+  document.write("<img src='Soul.jpg'>");
+  
 }
 
 
